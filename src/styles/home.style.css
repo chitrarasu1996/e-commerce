@@ -1,0 +1,33 @@
+.etittle-wrap{
+    background-color: #D2E1F3;
+    padding: 60px;
+    margin-bottom: auto;
+    font-family:"poppins, sans-serif";
+    color:#272E32;
+font-weight: 400;
+line-height:"23px";
+width: 100%;
+
+}
+
+.all-product-tittle{
+    opacity: 0.8;
+    font-family:"poppins, sans-serif";
+    font-weight: 600;
+    line-height: 20px;
+    font-size: 30px;
+    padding-top: 5px;
+    color: white;
+}
+
+/* loadmore */
+
+.loademore{
+    color: green !important;
+    font-weight: bold;
+    font-size: 20px !important;
+}
+.card-img-top:hover {
+    transform: scale(0.9);
+}
+ 
